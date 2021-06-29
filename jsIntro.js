@@ -1,18 +1,3 @@
-/*
-  Introducción a JS
-
-  JavaScript:
-  1. Lenguaje de alto nivel
-  2. Single-threaded (un único hilo de ejecución)
-  3. Garbage-collected
-  4. Interpretado
-  5. JIT (Just-In-Time Compiled)
-  6. Basado en prototipos
-  7. Multi-paradigma
-  8. Dinámico (tipado)
-  9. Non-blocking event loop
-*/
-
 // Tipos de datos en JavaScript
 // JS tiene un tipado dinámico que significa que existen tipos de datos pero las variables
 // no están atados a ellos.
